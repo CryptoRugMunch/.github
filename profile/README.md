@@ -43,15 +43,38 @@ We monitor and analyze tokens across multiple blockchain networks:
 
 ---
 
-## 💎 $CRM Token
+## 📚 Whitepapers
 
-**Solana**
-- Mint Address: `Eme5T2s2HB7B8W4YgLG1eReQpnadEVUnQBRjaKTdBAGS`
-- Total Supply: 1 billion (fixed, immutable)
+Deep dive into CryptoRugMunch's architecture, economics, and product strategy:
 
-**Zora ($cryptorugmunch)**
-- Contract Address: `0xd3a0388e4a7ebcbdc2985e2467c91252bbdc01fb`
-- Total Supply: 1 billion (fixed, immutable)
+### 🔧 [Technical Whitepaper](./assets/whitepapers/technical-whitepaper.md)
+Comprehensive technical documentation covering our multi-chain scam detection platform. Explore our 20-metric tiered risk scoring algorithm, system architecture built on Node.js/Fastify/BullMQ, cross-chain bridge implementation using Wormhole/LayerZero, and how we achieve 89-97% detection accuracy across Solana, Ethereum, and Base chains. Includes detailed sections on performance optimization (3-30s scan times), security measures, and Neo4j-powered graph analysis for detecting serial scammers and Sybil attacks.
+
+### 💰 [Economic Whitepaper](./assets/whitepapers/economic-whitepaper.md)
+Complete economic analysis of our dual-token architecture and NFT insurance pool. Learn how **$CRM (Solana)** determines staking eligibility while **$cryptorugmunch (Base/Zora)** powers rewards (40-125% APY), our burn-bridge cross-chain mechanism enforcing price parity, NFT tier benefits (staking multipliers, coverage caps, governance amplification), and financial projections showing the path from $144K market cap to sustainable $720K ARR. Includes unit economics (LTV:CAC 300:1), regulatory analysis, and token value drivers.
+
+### 🎯 [Product Whitepaper](./assets/whitepapers/product-whitepaper.md)
+Product strategy and user experience design for our Telegram-native platform. Discover our tiered scanning system (12 free metrics → 20 premium metrics), gamification mechanics (XP, levels, scam bounties), NFT insurance pool fundraising strategy (500 NFTs targeting $150K-325K raise), and how we're building a 10,000+ scam report data moat. Covers user flows, pricing strategy ($15-20/scan vs competitors' $99-199/mo), and advanced detection features for KOL manipulation and wash trading.
+
+---
+
+## 💎 Dual-Token Architecture
+
+CryptoRugMunch operates on a unique dual-token model designed for sustainable value accrual:
+
+### $CRM (Solana)
+- **Purpose**: Determines staking tier eligibility and governance power
+- **Mint Address**: `Eme5T2s2HB7B8W4YgLG1eReQpnadEVUnQBRjaKTdBAGS`
+- **Total Supply**: 1 billion (fixed, immutable)
+- **Tiers**: Bronze (500K) → Diamond (10M holdings)
+
+### $cryptorugmunch (Base/Zora)
+- **Purpose**: Staking rewards and platform utility
+- **Contract Address**: `0xd3a0388e4a7ebcbdc2985e2467c91252bbdc01fb`
+- **Total Supply**: 1 billion (fixed, immutable)
+- **APY**: 40-125% based on tier
+
+**Burn-Bridge**: Cross-chain conversion at fixed 1:10 ratio using Wormhole/LayerZero
 
 ---
 
