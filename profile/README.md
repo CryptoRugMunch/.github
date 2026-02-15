@@ -21,7 +21,7 @@ CryptoRugMunch is a **multi-chain crypto intelligence platform** that analyzes t
 - 🌐 **Browser Extension** — Risk badges on DexScreener, Pump.fun, Jupiter, Raydium, BullX, GMGN, Birdeye, Photon (Chrome, Firefox, Safari)
 - ⚡ **Agent API** — x402-paywalled endpoints for AI agents and bots
 - 🔌 **MCP Server** — Model Context Protocol integration for AI tools (Claude Desktop, Cursor, Windsurf)
-- 🧠 **Marcus AI** — Opinionated analyst on X/Twitter with market commentary and the Marcus Index
+- 🧠 **Marcus Aurelius** — LLM-powered Stoic crypto forensics analyst: natural language understanding, multi-source intelligence (X sentiment, Polymarket, web search, graph memory), autonomous token discovery, KOL tracking & shill detection, outcome learning, and the Marcus Index (daily market risk score). Runs as 5 dedicated microservices.
 
 ## What It Does
 
