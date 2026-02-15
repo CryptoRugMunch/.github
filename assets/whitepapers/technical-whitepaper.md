@@ -286,7 +286,7 @@ The Agent API uses the x402 HTTP payment protocol for per-request billing. No AP
 | POST | `/api/agent/v1/check-batch` | Batch analysis (up to 20 tokens) | $0.10 |
 | GET | `/api/agent/v1/deployer/{addr}` | Deployer history and classification | $0.02 |
 | GET | `/api/agent/v1/market-risk` | Marcus Index score | $0.005 |
-| GET | `/api/agent/v1/serial-ruggers` | Known serial rugger list | $0.02 |
+| GET | `/api/agent/v1/serial-ruggers` | Known serial rugger list | $0.005 |
 | GET | `/api/agent/v1/health` | Service health check | Free |
 
 ### 5.3 MCP Server
