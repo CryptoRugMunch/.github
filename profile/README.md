@@ -44,9 +44,9 @@ CryptoRugMunch is a **multi-chain crypto intelligence platform** that analyzes t
 
 ## 📚 Documentation
 
-- [Technical Whitepaper](https://github.com/CryptoRugMunch/rug-muncher/blob/main/assets/whitepapers/technical-whitepaper.md)
-- [Economic Whitepaper](https://github.com/CryptoRugMunch/rug-muncher/blob/main/assets/whitepapers/economic-whitepaper.md)
-- [Product Whitepaper](https://github.com/CryptoRugMunch/rug-muncher/blob/main/assets/whitepapers/product-whitepaper.md)
+- [Technical Whitepaper](https://github.com/CryptoRugMunch/.github/blob/main/assets/whitepapers/technical-whitepaper.md)
+- [Economic Whitepaper](https://github.com/CryptoRugMunch/.github/blob/main/assets/whitepapers/economic-whitepaper.md)
+- [Product Whitepaper](https://github.com/CryptoRugMunch/.github/blob/main/assets/whitepapers/product-whitepaper.md)
 
 ## Connect
 
