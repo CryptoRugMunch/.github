@@ -124,7 +124,7 @@ HTTP API with x402 payment protocol — no API keys, no subscriptions. Each requ
 | `POST /check-batch` | $0.10 | Portfolio audit (up to 20) |
 | `GET /deployer/{addr}` | $0.02 | Deployer background check |
 | `GET /market-risk` | $0.005 | Marcus Index market sentiment |
-| `GET /serial-ruggers` | $0.02 | Known bad actor list |
+| `GET /serial-ruggers` | $0.005 | Known bad actor list |
 | `GET /health` | Free | Service availability |
 
 ### 4.3 MCP Server

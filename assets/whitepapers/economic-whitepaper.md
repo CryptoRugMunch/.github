@@ -69,8 +69,8 @@ CryptoRugMunch uses a progressive 7-tier access model. Users qualify through $CR
 |------|-----------|---------------|----------|---------|-----------------|---------------|------------|
 | 🆓 Free | 3 | 0 (1/week) | 60s | 3 days | 0 | none | ❌ |
 | 🥉 Holder | 15 | 3 | 30s | 7 days | 1 | none | ❌ |
-| ⭐ Scout | 30 | 10 | 15s | 14 days | 3 | basic | ❌ |
-| 🐋 Whale | 50 | 20 | 10s | 30 days | 5 | full | ❌ |
+| ⭐ Scout | 30 | 10 | 10s | 30 days | 2 | basic | ❌ |
+| 🐋 Whale | ∞ | 25 | 10s | 90 days | 10 | basic | ❌ |
 | ⭐⭐ Analyst | ∞ | 50 | 0s | 90 days | 10 | full | ❌ |
 | ⭐⭐⭐ Syndicate | ∞ | ∞ | 0s | ∞ | 50 | full_api | ✅ |
 | 💎 OG | ∞ | ∞ | 0s | ∞ | ∞ | full_api_beta | ✅ |
@@ -118,7 +118,7 @@ CryptoRugMunch generates revenue through three streams:
 | POST /check-batch (20 tokens) | $0.10 |
 | GET /deployer/{addr} | $0.02 |
 | GET /market-risk | $0.005 |
-| GET /serial-ruggers | $0.02 |
+| GET /serial-ruggers | $0.005 |
 | GET /health | Free |
 
 **3. SOL/USDC On-chain Payments**
